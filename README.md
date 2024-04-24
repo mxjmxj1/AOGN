@@ -2,7 +2,7 @@
 
 This is the official PyTorch code for the paper:
 
-**AOGN-CZSL: an Attributes and Objects Guided Network for Compositional Zero-Shot Learning，IEEE Transactions on Neural Networks and Learning Systems**
+**AOGN-CZSL: an Attributes and Objects Guided Network for Compositional Zero-Shot Learning
 
 **Jing Yang**, **Xingjiang Ma**, **Shaobo Li**, **Jianjun Hu**, **Zhidong Su**
 
