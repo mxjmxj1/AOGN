@@ -1,7 +1,7 @@
 # AOGN
 Code for an Attributes and Objects  Guided Network for Compositional Zero-Shot Learning
 
-**AOGN-CZSL: an Attributes and Objects Guided Network for Compositional Zero-Shot Learning，_Information Fusion_**
+**AOGN-CZSL: an Attributes and Objects Guided Network for Compositional Zero-Shot Learning，_Information Fusion_.**
 
 **Jing Yang**, **Xingjiang Ma**, **Yuankai Wu**, **Chengjiang Li**, **Zhidong Su**, **Ji Xu**, **Yixiong Feng**
 
